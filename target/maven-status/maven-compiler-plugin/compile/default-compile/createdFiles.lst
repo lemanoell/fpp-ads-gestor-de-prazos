@@ -1,0 +1,16 @@
+br\com\gestordeprazo\dao\DocumentoDAO.class
+br\com\gestordeprazo\controller\CategoriaServlet.class
+br\com\gestordeprazo\model\Setor.class
+br\com\gestordeprazo\dao\SetorDAO.class
+br\com\gestordeprazo\controller\RegistrarDocumentoServlet.class
+br\com\gestordeprazo\controller\SetorServlet.class
+br\com\gestordeprazo\controller\CadastroUsuarioServlet.class
+br\com\gestordeprazo\controller\UsuariosServlet.class
+br\com\gestordeprazo\model\Categoria.class
+br\com\gestordeprazo\model\Documento.class
+br\com\gestordeprazo\controller\LogoutServlet.class
+br\com\gestordeprazo\controller\IndicadoresServlet.class
+br\com\gestordeprazo\model\Documento$SituacaoPrazo.class
+br\com\gestordeprazo\dao\CategoriaDAO.class
+br\com\gestordeprazo\model\Documento$StatusRegistro.class
+br\com\gestordeprazo\model\Documento$TipoPessoa.class
